@@ -4,7 +4,6 @@ Esse repositório concentra as seguintes atividades propostas para a cadeira de 
 
 - **Atividade 1** - "Resolvam as questões da avaliação"
 - **Atividade 2** - "Simulem os algoritmos propostos"
-- **Atividade 3** - "Implementação dos algoritmos de escalonamento"
 - **Atividade 4** - "Solução de exclusão mútua com espera ocupada"
 - **Atividade 6** - "Exercícios sobre threads"
 - **Atividade 7** - "Deadlocks"
