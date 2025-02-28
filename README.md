@@ -9,7 +9,6 @@ Esse repositório concentra as seguintes atividades propostas para a cadeira de 
 - **Atividade 6** - "Exercícios sobre threads"
 - **Atividade 7** - "Deadlocks"
 - **Atividade 8** - "Gerência de memória"
-- **Atividade 9** - "Exercício de Linux básico"
 
 As atividades abaixo foram enviadas pelos outros integrantes:
 
